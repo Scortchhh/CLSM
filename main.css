@@ -44,6 +44,56 @@
 .classic-red {
   color: #ee2c2c;
 }
-
 /* COLOR_RED END */
+
+/* COLOR_GREEN START */
+.dark-green {
+  color: #006400;
+}
+
+.green {
+  color: #00cd00;
+}
+
+.light-green {
+  color: #00ee00;
+}
+
+.lime-green {
+  color: #32cd32;
+}
+
+.classic-green {
+  color: #228b22;
+}
+
+/*COLOR_GREEN END */
+
+/*COLOR_PURPLE START */
+.purple {
+  color: #a020f0;
+}
+
+.classic-purple {
+  color: #9b30ff;
+}
+
+.dark-purple {
+  color: #551a8b;
+}
+
+.magneta {
+  color: #cd00cd;
+}
+
+.dark-magneta {
+  color: #8b008b;
+}
+
+.light-magneta {
+  color: #ff00ff;
+}
+
+/*COLOR_PURPLE END */
+
 /* COLOR SCHEME END */
