@@ -1,5 +1,49 @@
 /* COLOR SCHEME START */
 
+/* MAIN_COLORS(BLACK,GRAY,WHITE) START */
+
+/* black_section start */
+.black {
+  color: #000000;
+}
+/* black_section ends */
+
+/* grey_section starts */
+.grey {
+  color: #666666;
+}
+
+.blury-grey {
+  color: #696969;
+}
+
+.ghost-grey {
+  color: #dcdcdc;
+}
+
+.light-grey {
+  color: #9e9e9e;
+}
+
+.dark-grey {
+  color: #363636;
+}
+/* grey_section ends */
+
+.ghost-white {
+  color: #f8f8ff;
+}
+
+.azure-white {
+  color: #f0ffff;
+}
+
+.white {
+  color: #ffffff;
+}
+
+/* MAIN_COLORS END */
+
 /* COLOR_BLUE START */
 .blue {
   color: #0000ee;
@@ -95,5 +139,56 @@
 }
 
 /*COLOR_PURPLE END */
+/*COLOR_PINK START */
+.deep-pink {
+  color: #ff1493;
+}
+
+.dark-pink {
+  color: #8b0a50;
+}
+
+.classic-pink {
+  color: #ff69b4;
+}
+
+.light-pink {
+  color: #ffaeb9;
+}
+
+.dark-orchid {
+  color: #cd69c9;
+}
+
+.light-orchid {
+  color: #ff83fa;
+}
+
+.orchid {
+  color: #ee7ae9;
+}
+/*COLOR_PINK END */
+
+/*COLOR_YELLOW START */
+.yellow {
+  color: #ffff00;
+}
+
+.blury-yellow {
+  color: #eeee00;
+}
+
+.warm-yellow {
+  color: #eec900;
+}
+
+/* COLOR_YELLOW END */
+
+/* COLOR_GOLD START */
+.gold {
+  color: #ffd700;
+}
+
+/* COLOR_GOLD END */
 
 /* COLOR SCHEME END */
